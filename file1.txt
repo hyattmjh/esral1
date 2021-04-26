@@ -1,2 +1,6 @@
 this is the first line of text
-second line of text
+second line of text'
+
+here is a new paragaraph
+hello weolrd
+lorem ipsum
